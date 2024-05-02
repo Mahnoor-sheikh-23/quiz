@@ -4,7 +4,7 @@
 
 </i></p>
 <h1><b><i>Overview👀</b></h1>
-<p><i>Our quiz application is designed to provide an interactive and enjoyable experience for users to test their knowledge on typescript.☑️</i>br>
+<p><i>Our quiz application is designed to provide an interactive and enjoyable experience for users to test their knowledge on typescript.☑️</i><br>
   Whether you're studying for an exam or just want to challenge yourself with some trivia, our quiz has got you covered.👉</i></p>
   <h1><b><i>Features✨</b></h1>
   <ul>
@@ -14,10 +14,10 @@
     <li><i>Timer: Challenge yourself against the clock with an optional timer feature.⏲️</i></li>
     
   </ul>
-  <h1><b><i>Installation📌</i></b>
+  <h1><b><i>Installation📌</i></b></h1>
     <p><i>Just simply run this command on your terminals to use this quiz appliction "npx brain-quiz-game"</i>🟥</p>
   <h1><b><i>Feedback🙂</i></b></h1>
-  <p><i>We welcome any feedback or suggestions for improving our quiz application. Please feel free to open an issue or submit a pull request with your contributions.</i>br>
+  <p><i>We welcome any feedback or suggestions for improving our quiz application. Please feel free to open an issue or submit a pull request with your contributions.</i><br>
   you can also contact us on linkdin ⬇️</i></p>
   <p><i>"https://www.linkedin.com/in/growthmonii/"</i></p>
 
